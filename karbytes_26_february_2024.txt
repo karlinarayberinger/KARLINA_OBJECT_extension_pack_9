@@ -1,0 +1,29 @@
+/**
+ * file: karbytes_26_february_2024.txt
+ * type: plain-text
+ * date: 26_FEBRUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Note that the following four paragraphs may or may not be relevant as of 2:05PM Pacific Standard Time on 26_FEBRUARY_2024:
+
+I do not plan on making any updates to my personal websites (which are entirely public and solely created and owned by karbytes) named "Karlina Object dot WordPress dot Com" and "Karbytes For Life Blog dot WordPress dot Com" nor to my Twitter dot Com page (with username @karbytes) nor to my Minds dot Com page (with username @karbytes) nor to my LinkedIn dot Com  page (whose address is https://www.linkedin.com/in/kar-beringer-0a6684187/) nor to my Patreon dot Com page (whose address is https://www.patreon.com/karbytes) nor to any public GitHub dot Com repositories created and owned exclusively by either the GitHub dot Com account associated with the username @karlinarayberinger or else the username @karbytessupporter until after I burn at least two M_DISC copies of karbytes_23february2024_core and karbytes23february2024_journals and stow them in my Public Storage unit according to the conventions specified on the web page whose address is https://karbytesforlifeblog.wordpress.com/karbytes_physical_inventory_for_23february2024/.
+
+I expect those M_DISCs to be burned no later than 20_APRIL_2024. Until those M_DISCs are burned, I plan on continuing to make updates to my private GitHub dot Com repositories under the aforementioned GitHub usernames (including the drafting of the next chapter of the aforementioned public karbytes-created website named "Karbytes For Life Blog dot WordPress dot Com").
+
+I tentatively plan on naming that new chapter "raw_github_files_directory_KARLINA_OBJECT_extension_pack_9" and not releasing it until that chapter is in its final draft form. 
+
+Alternatively, I might decide instead to publish that new chapter of my website even while it is not yet in final draft form in order to use that chapter as a public record of weekly check-ins even if they are each little more than a single time-stamped line of text added to a plain-text file which uses something similar or identical to the following template: "karbytes is alive and adding this line to this file at 3:00AM Pacific Standard Time on 23_APRIL_2024." I tentatively plan on naming that plain-text file "karbytes_weekly_checkins.txt".
+
+* * *
+
+I noticed at least one error in at least one of the files which is part of the previous chapter of the aforementioned public karbytes-created website named "Karbytes For Life Blog dot WordPress dot Com" (and that previous chapter is named "raw_github_files_directory_KARLINA_OBJECT_extension_pack_8" and the file in which I detected an error is the web page named of that website named "karbytes_12_february_2024" (and the error I noticed was that the date in the preformatted text box of that web page is "06_FEBRUARY_2024" instead of "12_FEBRUARY_2024")). 
+
+I decided not to make any changes to any files which are part of the aforementioned (and entirely public (and public domain) karbytes-created websites named "Karlina Object dot WordPress dot Com" and "Karbytes For Life Blog dot WordPress dot Com" which were published before 2:05PM Pacific Standard Time on 26_FEBRUARY_2024 because such files are considered by karbytes to be in their final draft form as of 2:05PM Pacific Standard Time on 26_FEBRUARY_2024.
+
+What I decided to do as of 2:05PM Pacific Standard Time on 26_FEBRUARY_2024 is add "raw_github_files_directory_KARLINA_OBJECT_extension_pack_9" to the aforementioned website named "Karbytes For Life Blog dot WordPress dot Com" and to share this note as a rich-text social media post on the aforementioned social media profiles so that my real or imagined audience (i.e. what I idealize and hope is the general public with no person excluded from being able to view any of the files which are part of the aforementioned karbytes-created websites named "Karlina Object dot WordPress dot Com" and "Karbytes For Life Blog dot WordPress dot Com") can see that I now have a new system for letting members of that audience know that I am alive and not too incapacitated or oppressed to continue being the sole proprietor of those websites and the aforementioned social media and GitHub accounts no less frequently than once per week (and I have decided to make Monday the day of each week I add a new line to the file named "karbytes_weekly_checkins.txt").
+
+What I am doing differently with my websites as of 2:05PM Pacific Standard Time on 26_FEBRUARY_2024 is to be more restrictive than I used to be about sharing details about my personal life (including drama related to my self-paced academics, employment/economic situation, interpersonal relationships, and political activism). That way, I can keep my stress to a minimum and not burden people other than myself unnecessarily with details which I really do not think are very useful nor interesting to share with the general public. That means that I might not have much I feel is necessary to share with the general public other than bland weekly updates that I am still alive and in control of my Internet-based empire.
+
+(To be clear, I have not yet made any M_DISC copies of the aforementioned data collections named karbytes_23february2024_core and karbytes_23february2024_journals because the three sets of blank M_DISCs which I ordered from Amazon dot Com have not yet been delivered to my designated pickup location and are not scheduled to be delivered to that location for what looks like at least one more week (and each of those two data collections does not contain any files which were modified or created after the point in the space-time continuum which I inhabit labeled 2:05PM Pacific Standard Time on 26_FEBRUARY_2024)).
