@@ -16,6 +16,8 @@ I tentatively plan on naming that new chapter "raw_github_files_directory_KARLIN
 
 Alternatively, I might decide instead to publish that new chapter of my website even while it is not yet in final draft form in order to use that chapter as a public record of weekly check-ins even if they are each little more than a single time-stamped line of text added to a plain-text file which uses something similar or identical to the following template: "karbytes is alive and adding this line to this file at 3:00AM Pacific Standard Time on 23_APRIL_2024." I tentatively plan on naming that plain-text file "karbytes_weekly_checkins.txt".
 
+(Note that karbytes has already established a rule of updating the timestamps on the home page of the website named "Karbytes For Life Blog dot WordPress dot Com" only when any source code file which comprises any web page of that website has been updated. What that means is that karbytes will not update any of those time stamps if karbytes only updates the aforementioned file (which is hosted on GitHub dot Com instead of WordPress dot Com) named "karbytes_weekly_checkins.txt").
+
 * * *
 
 I noticed at least one error in at least one of the files which is part of the previous chapter of the aforementioned public karbytes-created website named "Karbytes For Life Blog dot WordPress dot Com" (and that previous chapter is named "raw_github_files_directory_KARLINA_OBJECT_extension_pack_8" and the file in which I detected an error is the web page named of that website named "karbytes_12_february_2024" (and the error I noticed was that the date in the preformatted text box of that web page is "06_FEBRUARY_2024" instead of "12_FEBRUARY_2024")). 
