@@ -1,154 +1,10 @@
 /** 
   * file: karbytes_for_life_blog_updates.txt
   * type: plain-text 
-  * date: 23_FEBRUARY_2024 
+  * date: 26_FEBRUARY_2024 
   * author: karbytes 
   * license: PUBLIC_DOMAIN 
   */
-
-(14_FEBRUARY_2024: Use this file as a template for all future files on karbytes named karbytes_for_life_blog_updates.txt due to the fact that file uses the term "website section" in place of "web page" to refer to directories within the website named Karbytes For Life Blog dot WordPress dot Com whose root is the home page of that website and whose uniquely corresponding hyperlink on that home page has a time stamped label to the right of that hyperlink which denotes the approximate time at which that hyperlink's uniquely corresponding website section was most recently updated by karbytes. When the term "web page" is used instead of "website section" in a paragraph describing a time-stamped karbytes update in files on karbytes named karbytes_for_life_blog_updates.txt, exactly one file rather than multiple files were updated. For all future files on karbytes named karbytes_for_life_blog_updates.txt, exclude this paragraph and only include content which is similar to the text below and above this paragraph in this file and which is adapted for future karbytes updates. Finally, note that this file is closed to further changes after 11:59PM Pacific Standard Time on 19_FEBRUARY_2024).
-
-karbytes updated (and apparently finalized) the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_7 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 10:01PM Pacific Standard Time on 06_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 10:07PM Pacific Standard Time on 06_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 6:20PM Pacific Standard Time on 08_FEBRUARY_2024.
-
-karbytes updated the website section raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 4:22PM Pacific Standard Time on 09_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 9:01PM Pacific Standard Time on 09_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 5:07PM Pacific Standard Time on 10_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 7:19PM Pacific Standard Time on 10_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 9:13PM Pacific Standard Time on 10_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 6:25PM Pacific Standard Time on 11_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 10:49PM Pacific Standard Time on 11_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 1:20AM Pacific Standard Time on 12_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 4:12AM Pacific Standard Time on 12_FEBRUARY_2024.
-
-karbytes updated the web page named KARBYTES_CODE_CONTINUES on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 5:02AM Pacific Standard Time on 12_FEBRUARY_2024.
-
-karbytes updated the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 5:12AM Pacific Standard Time on 12_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 5:28AM Pacific Standard Time on 12_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 5:40AM Pacific Standard Time on 12_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 5:40AM Pacific Standard Time on 12_FEBRUARY_2024.
-
-karbytes updated the web page named KARBYTES_CODE_CONTINUES on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 6:24AM Pacific Standard Time on 12_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 6:28AM Pacific Standard Time on 12_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 8:07PM Pacific Standard Time on 13_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 8:11PM Pacific Standard Time on 13_FEBRUARY_2024.
-
-karbytes updated the web page named mdisc_karbytes_23_february_2024 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 8:59PM Pacific Standard Time on 13_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 9:00PM Pacific Standard Time on 13_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 9:02PM Pacific Standard Time on 13_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:48PM Pacific Standard Time on 13_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:55PM Pacific Standard Time on 13_FEBRUARY_2024.
-
-karbytes updated the web page named KARBYTES_CODE_CONTINUES on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 12:54PM Pacific Standard Time on 14_FEBRUARY_2024.
-
-karbytes updated the web page named KARBYTES_CODE_CONTINUES on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 2:34PM Pacific Standard Time on 14_FEBRUARY_2024.
-
-karbytes updated (and apparently finalized) the website section named raw_github_files_directory_KARLINA_OBJECT on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 3:27PM Pacific Standard Time on 14_FEBRUARY_2024.
-
-karbytes updated the web page named mdisc_karbytes_23_february_2024 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 3:58PM Pacific Standard Time on 14_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 4:21PM Pacific Standard Time on 14_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 4:22PM Pacific Standard Time on 14_FEBRUARY_2024.
-
-karbytes updated the website section named karbytes_physical_inventory_for_23february2024 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:51PM Pacific Standard Time on 15_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 1:01AM Pacific Standard Time on 16_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 1:02AM Pacific Standard Time on 16_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:57AM Pacific Standard Time on 16_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:58AM Pacific Standard Time on 16_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 3:58PM Pacific Standard Time on 16_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 3:59PM Pacific Standard Time on 16_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 4:48PM Pacific Standard Time on 16_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 4:50PM Pacific Standard Time on 16_FEBRUARY_2024.
-
-karbytes updated the website section named karbytes_physical_inventory_for_23february2024 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 9:33PM Pacific Standard Time on 16_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 9:36PM Pacific Standard Time on 16_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 9:38PM Pacific Standard Time on 16_FEBRUARY_2024.
-
-karbytes updated (and apparently finalized) the website section named karbytes_physical_inventory_for_23february2024 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:12PM Pacific Standard Time on 16_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:15PM Pacific Standard Time on 16_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:19PM Pacific Standard Time on 16_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 10:38PM Pacific Standard Time on 19_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 10:40PM Pacific Standard Time on 19_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 2:35PM Pacific Standard Time on 20_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 2:39PM Pacific Standard Time on 20_FEBRUARY_2024.
-
-karbytes updated the web page named mdisc_karbytes_23_february_2024 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 2:12AM Pacific Standard Time on 21_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 2:15AM Pacific Standard Time on 21_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 2:22AM Pacific Standard Time on 21_FEBRUARY_2024.
-
-karbytes updated the web page named mdisc_karbytes_23_february_2024 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:31PM Pacific Standard Time on 21_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:33PM Pacific Standard Time on 21_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:36PM Pacific Standard Time on 21_FEBRUARY_2024.
-
-karbytes updated (and apparently finalized) the web page named mdisc_karbytes_23_february_2024 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 8:55PM Pacific Standard Time on 22_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 8:57PM Pacific Standard Time on 22_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 8:58PM Pacific Standard Time on 22_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:57PM Pacific Standard Time on 22_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:58PM Pacific Standard Time on 22_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 3:16AM Pacific Standard Time on 23_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 3:21AM Pacific Standard Time on 23_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 5:35AM Pacific Standard Time on 23_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 5:38AM Pacific Standard Time on 23_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 6:05AM Pacific Standard Time on 23_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 6:08AM Pacific Standard Time on 23_FEBRUARY_2024.
-
-karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 7:53AM Pacific Standard Time on 23_FEBRUARY_2024.
-
-karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 7:54AM Pacific Standard Time on 23_FEBRUARY_2024.
-
-karbytes updated the website section named karbytes_physical_inventory_for_23february2024 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 7:30PM Pacific Standard Time on 23_FEBRUARY_2024.
 
 karbytes updated (and apparently finalized) the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 7:42PM Pacific Standard Time on 23_FEBRUARY_2024.
 
@@ -157,3 +13,5 @@ karbytes updated the home page of the website named Karbytes For Life Blog dot W
 karbytes updated (and apparently finalized) the website section named karbytes_physical_inventory_for_23february2024 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 9:08PM Pacific Standard Time on 23_FEBRUARY_2024.
 
 karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 9:08PM Pacific Standard Time on 23_FEBRUARY_2024.
+
+karbytes updated the website section named raw_github_files_directory_KARLINA_OBJECT_extension_pack_9 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 6:23PM Pacific Standard Time on 23_FEBRUARY_2024.
