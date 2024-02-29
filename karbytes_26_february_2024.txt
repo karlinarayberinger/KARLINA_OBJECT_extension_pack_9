@@ -1,7 +1,7 @@
 /**
  * file: karbytes_26_february_2024.txt
  * type: plain-text
- * date: 26_FEBRUARY_2024
+ * date: 28_FEBRUARY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -38,9 +38,11 @@ UPDATE!!!
 
 Update: Because this note is so instrumental in succinctly describing karbytes' content management policies, procedures, and expected circumstances, karbytes decided to include all content which was published in the aforementioned chapter named "KARLINA_OBJECT_extension_pack_9" before 11:00PM Pacific Standard Time on 26_FEBRUARY_2024 in the karbytes data collection which was formerly named karbytes_23february2024_core (and which is now named karbytes_26february2024_core) in the next set of M_DISCs which karbytes plans on burning before 20_APRIL_2024. Also, karbytes is adding a zip file containing all the files which are in the private (and now archived (i.e. read-only)) karbytes-created GitHub repository named karbytes_basement_6 as those files are before 11:00PM Pacific Standard Time on 26_FEBRUARY_2024 in the karbytes data collection which was formerly named karbytes_23february2024_journals (and which is now named karbytes_26february2024_journals). The updated data sizes for those two data collections are as follows:
 
+(FINAL_UPDATE: This paragraph was added to this web page between 11:00PM Pacific Standard Time on 28_FEBRUARY_2024 and 1:00AM Pacific Standard Time on 29_FEBRUARY_2024. This paragraph is the only paragraph on this web page which was not added to this web page between 11:00AM Pacific Standard Time on 26_FEBRUARY_2024 and 11:00PM Pacific Standard Time on 26_FEBRUARY_2024. karbytes added this paragraph to this web page after karbytes added the image file named "chatgpt_and_karbytes_discuss_marijuana_smoking_and_free_will_28_february_2024.png" to the "micro directory" website section named "raw_github_files_directory_KARLINA_OBJECT_extension_pack_9" of the "macro directory" website section named "RAW_GITHUB_FILES_MACRO_DIRECTORY" of the (entirely public (and public domain)) karbytes-created website named "Karbytes For Life Blog dot WordPress dot Com" and after karbytes noticed that karbytes failed to mention in this web page (between 11:00AM Pacific Standard Time on 26_FEBRUARY_2024 and 11:00PM Pacific Standard Time on 26_FEBRUARY_2024) that the most up-to-date version of the "micro directory" (of the aforementioned website section named "RAW_GITHUB_FILES_MACRO_DIRECTORY" of the aforementioned website named "Karbytes For Life Blog dot WordPress dot Com") named "raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG" is scheduled to have all of its constituent source code files and media files which are hosted in that "micro directory's" corresponding (public (and public domain) karbytes-created) GitHub repository downloaded as one zip file and added to the karbytes data collection (which is scheduled to be burned to an M_DISC before 11:59PM Pacific Standard Time on 20_APRIL_2024) named karbytes_29february2024_core (and that data collection was formerly named karbytes_26february2024_core (and the data collection named karbytes_29february2024_journals was formerly named karbytes_26february2024_journals)). The (zip) files which are part of the aforementioned data collections named karbytes_29february2024_core and karbytes_29february2024_journals have been updated in terms of data size and content and are current as of 1:00AM Pacific Standard Time on 29_FEBRUARY_2024. Details about each of those zip files are also current as of 1:00AM Pacific Standard Time on 29_FEBRUARY_2024).
+
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-M_DISC 1 of 2 (contains data collection named karbytes_26february2024_core)
+M_DISC 1 of 2 (contains data collection named karbytes_29february2024_core)
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -72,7 +74,7 @@ karbytes_26february2024_core: // 22 files (1.8 gigabytes total).
 
 	- KARLINA_OBJECT_extension_pack_8-main.zip // 99.7 megabytes
 
-	- KARLINA_OBJECT_extension_pack_9-main_26february2024.zip // 1.9 megabytes
+	- KARLINA_OBJECT_extension_pack_9-main_29february2024.zip // 2.1 megabytes
 
 	- KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 27.5 megabytes
 
@@ -92,7 +94,7 @@ karbytes_26february2024_core: // 22 files (1.8 gigabytes total).
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-M_DISC 2 of 2 (contains data collection named karbytes_26february2024_journals)
+M_DISC 2 of 2 (contains data collection named karbytes_29february2024_journals)
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
