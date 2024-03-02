@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-In order to minimize redundancy of data which karbytes backs up to M_DISCs and to make use of the last remaining blank disc in the set of three M_DISCs which karbytes recently ordered from Amazon dot Com, karbytes plans on burning that disc with all the zip files in the folder named karbytes_03march2024_core and each of the zip files which were downloaded from private GitHub repositories in the folder named karbytes_03march2024_journals before 11:59PM Pacific Standard Time on 02_MARCH_2024. 
+In order to make efficient use of the last remaining blank disc in the set of three M_DISCs which karbytes recently ordered from Amazon dot Com, karbytes plans on burning that disc with all of the zip files in the folder named karbytes_03march2024_core and each of the zip files which were downloaded from private GitHub repositories in the folder named karbytes_03march2024_journals before 11:59PM Pacific Standard Time on 02_MARCH_2024. 
 
 Each of the zip files which karbytes intends to burn to a single M_DISC will be placed in a folder named karbytes_03march2024_fortify. 
 
