@@ -1,0 +1,25 @@
+/**
+ * file: karbytes_01_may_2024.txt
+ * type: plain-text
+ * date: 01_MAY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Today I picked up a set of three M_DISCs which I ordered from Amazon dot Com from an Amazon locker in downtown Castro Valley. Then I burned two of those three discs with the data collections described on the web page whose web address is as follows (and such that one of those discs has become a read-only long-term storage medium for exactly one data collection named karbytes_29february2024_core while the other one of those discs has become a read-only long-term storage medium for exactly one data collection named karbytes_29february2024_journals):
+
+https://karbytesforlifeblog.wordpress.com/karbytes_26_february_2024/
+
+The following video clips depict scenes from the aforementioned M_DISC burning procedure. After burning each of those two discs using a DVD disc drive connected to my Windows 10 laptop via USB cable, I tested each of those two burned discs by connecting that DVD drive to my Kubuntu laptop and copying the files on those discs to the Desktop directory of that Kubuntu laptop (and I opened those folders and peaked inside some of the zip files inside of those folders to verify that the contents were what I expected them to be). Finally, I took the set of three M_DISCs to my Public Storage unit and placed the blank unopened M_DISC in my microwave oven and put the two burned M_DISCs (inside of their original jewel cases with corresponding hand-written labels taped to the outside of those cases) inside of one of the two fireproof zipper-locking compact disc cases I ordered from Amazon dot Com approximately three weeks ago (after using scissors to cut out all of the compact disc sleeves inside of that compact disc case in order to make room for the M_DISCs inside of their original jewel cases in order to make those discs easier for me to identify and to protect them from scratches).
+
+(I plan on making a minimum of four M_DISC copies of the data collection named karbytes_29february2024_core and a minimum of four M_DISC copies of the data collection named karbytes_29february2024_journals before 11:59PM Pacific Standard Time on 20_APRIL_2024).
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/karbytes_mdisc_burning_video_clip_01mar2024_part_0.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/karbytes_mdisc_burning_video_clip_01mar2024_part_1.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/karbytes_mdisc_burning_video_clip_01mar2024_part_2.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/karbytes_mdisc_burning_video_clip_01mar2024_part_3.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/karbytes_mdisc_burning_video_clip_01mar2024_part_4.mp4
