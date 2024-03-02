@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-Today I picked up a set of three M_DISCs which I ordered from Amazon dot Com from an Amazon locker in downtown Castro Valley. Then I burned two of those three discs with the data collections described on the web page whose web address is as follows (and such that one of those discs has become a read-only long-term storage medium for exactly one data collection named karbytes_29february2024_core while the other one of those discs has become a read-only long-term storage medium for exactly one data collection named karbytes_29february2024_journals):
+Today I picked up a set of three M_DISCs which I ordered from Amazon dot Com from an Amazon locker in downtown Castro Valley. Then I burned two of those three discs with the data collections described on the web page whose web address is as follows (and such that one of those discs has become a read-only long-term storage medium for exactly one data collection named "karbytes_29february2024_core" while the other one of those discs has become a read-only long-term storage medium for exactly one data collection named "karbytes_29february2024_journals"):
 
 https://karbytesforlifeblog.wordpress.com/karbytes_26_february_2024/
 
