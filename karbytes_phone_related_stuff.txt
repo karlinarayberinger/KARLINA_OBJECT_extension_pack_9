@@ -1,0 +1,21 @@
+/**
+ * file: karbytes_phone_related_stuff.txt
+ * type: plain-text
+ * date: 04_MARCH_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following Uniform Resource Locators (i.e. URLs) are each the web page address of exactly one raw GitHub-hosted image file pertaining to karbytes' (AT&T service provider) cellular phone usage (which karbytes uses to initiate and answer phone calls, send and receive text messages (i.e. Short Message/Messaging Service (i.e. SMS)), browse the Internet via web browsing applications such as Chrome, interact with Internet-based social media platforms such as Instagram, and, perhaps most importantly, establish a portable Internet connection which allows karbytes to connect its (Linux operating system, Hewlett-Packard hardware) laptop computer to the Internet either by tethering its laptop via USB-C to USB-3.0 cable to its (Samsung Galaxy A03s with Android operating system) smartphone or by establising a wireless Wi-Fi hotspot such that devices which are inside of a sufficiently close range to that phone (while that Wi-Fi hotspot is turned on and provided that those devices have entered the correct Wi-Fi network password) can connect to the Internet using that Wi-Fi hotspot established by the phone).
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/att_prepaid_phone_service_blocked_by_retailer_forum_posts_04march2024.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/att_prepaid_sim_card_best_buy_04march2024.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/github_two_factor_authentication_04march2024_part_0.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/github_two_factor_authentication_04march2024_part_1.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/github_two_factor_authentication_04march2024_part_2.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/karbytes_phone_numbers.txt
