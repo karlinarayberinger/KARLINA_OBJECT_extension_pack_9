@@ -1,0 +1,19 @@
+/**
+ * file: karbytes_05_march_2024.txt
+ * type: plain-text
+ * date: 04_MARCH_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Any event always has a probability greater than zero percent of occurring somewhere throughout all existence.
+
+Purely mathematical statements in the form of algebraic equivalences such as "1 + 1 = 2" are guaranteed to be one hundred percent unfalsifiable.
+
+Randomness and probability are each derived from incomplete knowledge instead of from an omniscient frame of reference. 
+
+(Randomness is a subjective assessment that something is unpredictable to some extent rather than infallibly predictable. By definition, randomness is not a feature of existence which is observed from an omniscient level of awareness). 
+
+(Probability is a subjective assessment that some pattern is predicted to occur at some nonnegative integer frequency of times within some nonnegative integer frequency of discrete observances (where each observance either exhibits the aforementioned pattern or else does not exhibit that pattern). Such an assessment is based on memorized observations of the respective system being observed where randomness is expected (according to some non-omniscient frame of reference)).
+
+larger encompassing instance of randomly assembled objects which are communicable as a finite set of objects where each of those objects is represented as a finite sequence of integers).
