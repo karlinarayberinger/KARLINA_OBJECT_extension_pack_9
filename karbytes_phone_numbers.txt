@@ -1,0 +1,21 @@
+/**
+ * file: karbytes_phone_numbers.txt
+ * type: plain-text
+ * date: 04_MARCH_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes' mother's cellular phone number: 15103292375
+
+karbytes' father's cellular phone number: 15103292376
+
+karbtes' brother's cellular phone number: 15105662441
+
+karbytes' mother's landline phone number: 15103178483
+
+karbytes' father's landline phone number: 15107285122
+
+karbytes' last ex partner's cellular phone number: 15103033352
+
+karbytes' own cellularl phone number: 15106319783
