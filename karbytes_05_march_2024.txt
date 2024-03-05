@@ -15,5 +15,3 @@ Randomness and probability are each derived from incomplete knowledge instead of
 (Randomness is a subjective assessment that something is unpredictable to some extent rather than infallibly predictable. By definition, randomness is not a feature of existence which is observed from an omniscient level of awareness). 
 
 (Probability is a subjective assessment that some pattern is predicted to occur at some nonnegative integer frequency of times within some nonnegative integer frequency of discrete observances (where each observance either exhibits the aforementioned pattern or else does not exhibit that pattern). Such an assessment is based on memorized observations of the respective system being observed where randomness is expected (according to some non-omniscient frame of reference)).
-
-larger encompassing instance of randomly assembled objects which are communicable as a finite set of objects where each of those objects is represented as a finite sequence of integers).
