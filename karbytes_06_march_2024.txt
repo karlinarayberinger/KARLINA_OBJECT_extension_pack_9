@@ -21,3 +21,7 @@ karbytes: "I hesitate to put this note in my blog, but since it seems to be rele
 * * *
 
 Because this note seems a bit "inflammatory" and "low brow" (especially for those I consider to be most "low brow"), I will not make any rich-text version of this plain-text note nor will I share this note on my social media platforms. I think that the previous item which I shared on social media (which was the rich-text version of the plain-text file I published in this GitHub repository named karbytes_05_march_2024.txt) was more salient to my personal interests and more inspiring (rather than depression-mongering or anger-mongering or fear-mongering) for humanity to read in general.
+
+* * *
+
+Something which I forgot to add to the list of "values" in the last paragraph of the previous section of this note is as follows: individual human lifespan (or, perhaps more accurately, continuity of consciousness of each human individual) approaching a temporal length of infinitely many seconds).
