@@ -1,0 +1,18 @@
+/**
+ * file: karbytes_07_march_2024.txt
+ * type: plain-text
+ * date: 06_MARCH_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+I spent the past three days updating each of the existing "micro directory" web pages which are part of the "macro directory" web page named "RAW_GITHUB_FILES_MACRO_DIRECTORY" on the (public (and public-domain) karbytes-created) website named "Karbytes For Life Blog dot WordPress dot Com" by removing extraneous content such as the paragragh on each of those micro directory web pages suggesting that the embedded rather than raw files of that micro directory's corresponding GitHub repository be saved to the WayBack Machine with the "save outlinks" option toggled in order to save each of those web pages which have those files embedded in them instead of the web pages which only display exactly one raw file. I discovered within the past six months that the WayBack Machine (at Archive dot Org) does not properly save those web pages which have the GitHub repository files embedded in them as inset frames surrounded by GitHub-related web page elements (but the WayBack Machine does properly save each of the raw files which are hosted on public karbytes-created GitHub repositories).
+
+I expect to be receiving the set of three M_DISCs which I most recently ordered within the next three days (and, within three days of me receiving that set, I plan on burning the three M_DISCs in that set with the karbytes data collections named "karbytes_08march2024_core", "karbytes_08march2024_journals", and "karbytes_08march2024_fortify").
+
+Details about the data collections which I intend to burn to M_DISCs before 11:59PM Pacific Standard Time on 12_MARCH_2024 are available in the web pages at the following web addresses:
+
+https://karbytesforlifeblog.wordpress.com/karbytes_01_march_2024/
+
+https://karbytesforlifeblog.wordpress.com/karbytes_02_march_2024/
+
