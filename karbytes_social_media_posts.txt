@@ -425,3 +425,15 @@ Attributes of an information processing agent which are unique (i.e. not assigne
 tweet_url: 
 
 https://twitter.com/karbytes/status/1742391775795540387
+
+* * *
+
+On 12_MARCH_2024 at approximately 9:30PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page:
+
+tweet_text:
+
+This is not a "no-op". Instead, this is part of some process in progress.
+
+tweet_url: 
+
+https://twitter.com/karbytes/status/1741940895128408217
