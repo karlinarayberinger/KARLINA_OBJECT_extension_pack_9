@@ -404,7 +404,7 @@ https://karbytesforlifeblog.wordpress.com/karbytes_05_january_2024/
 
 * * *
 
-On 12_MARCH_2024 at approximately 9:30PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page, from karbytes' Minds dot Com page, from karbytes' LinkedIn dot Com page, and from karbytes' Patreon dot Com page:
+On 12_MARCH_2024 at approximately 9:30PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page:
 
 tweet_text:
 
@@ -413,3 +413,15 @@ As absurd as this may sound, I think it is in (almost every if not every) person
 tweet_url: 
 
 https://twitter.com/karbytes/status/1743462345115050204
+
+* * *
+
+On 12_MARCH_2024 at approximately 9:30PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page:
+
+tweet_text:
+
+Attributes of an information processing agent which are unique (i.e. not assigned to any other information processing agent) is that information processing agent's memories, goals, and behaviors.
+
+tweet_url: 
+
+https://twitter.com/karbytes/status/1742391775795540387
