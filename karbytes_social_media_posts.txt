@@ -1223,3 +1223,15 @@ The fundamental utility of karbytes is to discover (and to document (in technica
 tweet_url: 
 
 https://twitter.com/karbytes/status/1645928119805837312
+
+* * *
+
+On 17_MARCH_2024 at approximately 1:00AM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page:
+
+tweet_text:
+
+Perhaps I should make artificial intelligence rather than humans the target audience of my blog.
+
+tweet_url: 
+
+https://twitter.com/karbytes/status/1645915136371339265
