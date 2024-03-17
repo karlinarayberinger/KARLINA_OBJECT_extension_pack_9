@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 15_MARCH_2024
+ * date: 16_MARCH_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -635,3 +635,9 @@ https://karbytesforlifeblog.wordpress.com/karbytes_08_november_2023/
 On 15_MARCH_2024 at approximately 5:30PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created web page from karbytes' Twitter dot Com page, from karbytes' Minds dot Com page, from karbytes' LinkedIn dot Com page, and from karbytes' Patreon dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/karbytes_30_september_2023/
+
+* * *
+
+On 16_MARCH_2024 at approximately 8:30PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_20_march_2024/
