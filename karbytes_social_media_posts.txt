@@ -1295,3 +1295,15 @@ I am against censorship except for sharing private account data or forcing indiv
 tweet_url: 
 
 https://twitter.com/karbytes/status/1646024029189607424
+
+* * *
+
+On 17_MARCH_2024 at approximately 1:30AM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Minds dot Com page:
+
+tweet_text:
+
+I am against censorship except for sharing private account data or forcing individuals to pay attention to content coercively rather than by choice.
+
+tweet_url: 
+
+https://twitter.com/karbytes/status/1646024029189607424
