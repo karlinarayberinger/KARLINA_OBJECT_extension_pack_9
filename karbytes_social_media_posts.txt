@@ -1199,3 +1199,15 @@ I am against censorship except for sharing private account data or forcing indiv
 tweet_url: 
 
 https://twitter.com/karbytes/status/1646024029189607424
+
+* * *
+
+On 17_MARCH_2024 at approximately 1:00AM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page:
+
+tweet_text:
+
+Censorship is either the blocking of information from being transmitted between source and intended audience or else the altering of such information.
+
+tweet_url: 
+
+https://twitter.com/karbytes/status/1646023750629101568
