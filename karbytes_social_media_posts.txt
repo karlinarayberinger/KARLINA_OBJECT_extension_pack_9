@@ -938,7 +938,7 @@ https://twitter.com/karbytes/status/1683662513580437504
 
 * * *
 
-On 16_MARCH_2024 at approximately 11:00PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page and from karbytes' Minds dot Com page:
+On 16_MARCH_2024 at approximately 11:30PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page and from karbytes' Minds dot Com page:
 
 tweet_text:
 
@@ -947,3 +947,15 @@ At this time in my life, I would rather treat my life as a video game in which I
 tweet_url: 
 
 https://twitter.com/karbytes/status/1683641797699063810
+
+* * *
+
+On 16_MARCH_2024 at approximately 11:30PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page and from karbytes' Minds dot Com page:
+
+tweet_text:
+
+It is hypothesized that it is possible for quantum signal transmission between two computers to occur instantaneously (even if those two computers are traveling away from each other faster than the speed of light due to expansion of space-time) if those computers contain ions which are in quantum entanglement with each other (such that, when computer A updates its ion, computer B updates its ion (given that those two ions are in quantum entanglement with each other)).
+
+tweet_url: 
+
+https://twitter.com/karbytes/status/1683574773425766400
