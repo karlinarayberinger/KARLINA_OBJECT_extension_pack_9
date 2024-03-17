@@ -773,3 +773,15 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 tweet_url: 
 
 https://twitter.com/karbytes/status/1702481043302089009
+
+* * *
+
+On 16_MARCH_2024 at approximately 10:30PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page, from karbytes' Minds dot Com page, from karbytes' LinkedIn dot Com page, and from karbytes' Patreon dot Com page:
+
+tweet_text:
+
+Perhaps free will is willed into existence by an information processing agent such that the information processing agent can, at some arbitrary point in time and space, consciously decide whether or not to increase that agent's free will or else to decrease that agent's free will. To increase free will takes a finite amount of energy for the task of imagining future outcomes to a decision which each would occur as a result of the respective information processing agent taking a specific corresponding action (and one action of multiple possible actions which that information processing agent imagines and then decides to implement through some algorithmic process of elimination). To decrease free will is to exert zero or only some trivial amount of energy towards imagining future outcomes and how to effect a desired outcome using planned actions. Hence, breathing typically takes little free will compared to walking through a maze.
+
+tweet_url: 
+
+https://twitter.com/karbytes/status/1699283558203035690
