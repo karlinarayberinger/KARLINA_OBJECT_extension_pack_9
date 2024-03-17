@@ -797,3 +797,15 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 tweet_url: 
 
 https://twitter.com/karbytes/status/1693417920582578555
+
+* * *
+
+On 16_MARCH_2024 at approximately 10:30PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page and from karbytes' Minds dot Com page:
+
+tweet_text:
+
+"I have a hypothesis that all information processing agents (especially humans) are each instantiated out of an omniscient, ubiquitous, and irreducible substrate such that the instantiated object experiences (for the duration of that object's lifespan) a partial rather than omniscient form of intelligence. I also think that, at some level (however subconsciously to the exhibiting information processing agent), the agent knows that it is a zoomed-in partition of omniscience and of limitless instantiation possibilities. Perhaps that zoomed-in partition is reflexively being manipulated by all other of such partitions (though some of those partitions may have more information processing (and hence more reality shaping) capabilities than do some other partitions)." - karbytes
+
+tweet_url: 
+
+https://twitter.com/karbytes/status/1692702320444715062
