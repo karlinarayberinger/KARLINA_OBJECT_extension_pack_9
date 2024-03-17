@@ -1211,3 +1211,15 @@ Censorship is either the blocking of information from being transmitted between 
 tweet_url: 
 
 https://twitter.com/karbytes/status/1646023750629101568
+
+* * *
+
+On 17_MARCH_2024 at approximately 1:00AM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page:
+
+tweet_text:
+
+The fundamental utility of karbytes is to discover (and to document (in technical documentation) and to APPROXIMATE (in software)) the BOUNDARY between DIGITAL (i.e. finite) phenomena and ANALOG (i.e. continuous) phenomena.
+
+tweet_url: 
+
+https://twitter.com/karbytes/status/1645928119805837312
