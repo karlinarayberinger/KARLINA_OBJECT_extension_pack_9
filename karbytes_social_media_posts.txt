@@ -959,3 +959,15 @@ It is hypothesized that it is possible for quantum signal transmission between t
 tweet_url: 
 
 https://twitter.com/karbytes/status/1683574773425766400
+
+* * *
+
+On 16_MARCH_2024 at approximately 11:30PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page and from karbytes' Minds dot Com page:
+
+tweet_text:
+
+Quantum entanglement of ions inside of quantum computer hardware can be set up such that an information exchange bidirectional (and hence N-directional) digital-to-analog-to-digital signal transmission across spatial lengths between regions of space which accelerate away from each other faster than the speed of light. Then omniscience is almost achieved!
+
+tweet_url: 
+
+https://twitter.com/karbytes/status/1681483641455788033
