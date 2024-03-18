@@ -1837,3 +1837,23 @@ https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_98/
 On 17_MARCH_2024 at approximately 7:30PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created web page from karbytes' LinkedIn page:
 
 https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_73/
+
+* * *
+
+On 17_MARCH_2024 at approximately 8:00PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created social media post from karbytes' LinkedIn dot Com page:
+
+My primary website (Karlina Object dot WordPress dot Com) and my secondary website (Karbytes For Life Blog dot WordPress dot Com) each has an updated DONATIONS_PORTAL section on its START_PAGE. 1 can make "one time" donations via PayPal or recurring monthly donations via Patreon.
+
+[The following is chatGPT-4 output after submitting the following prompt which included an uploaded screenshot image which was included in karbytes' (now deleted) LinkedIn post: Please display the text which is part of the following screenshot of a web page: ]
+
+The screenshot is from a Patreon page for "Karlina Object dot WordPress dot Com," which is a personal websites & social media service. The page is offering different membership levels with various monthly donation options to support the ongoing development of Karlina Object dot WordPress dot Com and other websites managed by karbytes. The membership levels are as follows:
+
+bit: $1/month with a benefit of General Support.
+byte: $8/month with a benefit of General Support.
+word: $64/month with a benefit of General Support.
+modest_support: $256/month with a benefit of General Support.
+generous_support: $512/month with a benefit of General Support.
+enthusiastic_support: $1,024/month with a benefit of General Support.
+autonomous_lifestyle_support: $5,000/month with a benefit of General Support.
+
+Below each membership option, it states: "Monthly donations are used to support the ongoing development of Karlina Object dot WordPress dot Com and other websites managed by karbytes."
