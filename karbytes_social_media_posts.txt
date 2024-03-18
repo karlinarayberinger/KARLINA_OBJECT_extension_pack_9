@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 17_MARCH_2024
+ * date: 18_MARCH_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -2505,3 +2505,15 @@ On 17_MARCH_2024 at approximately 11:00PM Pacific Standard Time, karbytes delete
 https://twitter.com/karbytes/status/1584349943141003264
 https://www.instagram.com/p/CkE5DtyvD0p/
 https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/blob/main/two_ladybugs_one_bush_in_dublin_california_23_october_2022.jpeg
+
+* * *
+
+On 18_MARCH_2024 at approximately 1:00AM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page and from karbytes' Minds dot Com page:
+
+tweet_text:
+
+At approximately 6:20PM tonight, I witnessed an object with mass (i.e. a meteor, et cetera) stream across the sky. The front tip was glowing white while an orange trail of plasma followed it. The meteor (et cetera) burned for approximately 2 seconds.
+
+tweet_url: 
+
+https://twitter.com/karbytes/status/1595967709337899008
