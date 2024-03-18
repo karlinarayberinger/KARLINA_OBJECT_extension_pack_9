@@ -1797,3 +1797,15 @@ https://thehumaneleague.org/article/lab-grown-meat
 tweet_url: 
 
 https://twitter.com/karbytes/status/1623554732148285441
+
+* * *
+
+On 17_MARCH_2024 at approximately 7:00PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page:
+
+tweet_text:
+
+I make a point of always following back accounts which follow mine. Unfortunately, today when I tried to follow more accounts, Twitter said I was I was restricted from doing so indefinitely in order to prevent fraud. Hopefully that restriction lasts less than one week.
+
+tweet_url: 
+
+https://twitter.com/karbytes/status/1623547055833759744
