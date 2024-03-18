@@ -1783,3 +1783,17 @@ This number is different for each account and is automatically calculated based 
 tweet_url: 
 
 https://twitter.com/karbytes/status/1623561301531459584
+
+* * * 
+
+On 17_MARCH_2024 at approximately 7:00PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page:
+
+tweet_text:
+
+As redundant as this may sound, I thought it would be useful to mention that humans, in my opinion, should want to switch to feeding their carnivorous pets only cultured meat whose stem cells are not harvested in ways which harm the ("sufficiently sentient") host animal.
+
+https://thehumaneleague.org/article/lab-grown-meat
+
+tweet_url: 
+
+https://twitter.com/karbytes/status/1623554732148285441
