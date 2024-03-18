@@ -1763,3 +1763,23 @@ video_title: UNLOCK AKASHIC RECORDS 💫 Remember Mastery 🌈 Ultra Shamanic Dr
 video_source: Lovemotives Meditation Music 
 
 video_date: 13_SEPTEMBER_2018
+
+* * *
+
+On 17_MARCH_2024 at approximately 7:00PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created tweet from karbytes' Twitter dot Com page:
+
+tweet_text:
+
+Partly as a result of finding this tweet, I decided that I will go through my Twitter followers and unfollow accounts which I am not sufficiently interested in. I do not plan to do this on other social media platforms unless those platforms restrict me in a similar way as Twitter
+
+[The following is chatGPT-4 output after submitting the following prompt which included an uploaded screenshot image of the tweet which was included in karbytes' (now deleted) tweet: Please display the text which is part of the following screenshot of a Twitter post: ]
+
+The screenshot contains a tweet by a user named Nanami with the handle @hot_girl_spring. The tweet says, "Tell us the magical ratio 🤨", and includes a screenshot of what appears to be a Twitter Help Center article. The text in the Help Center screenshot reads:
+
+In addition to the daily limits, there are follow ratios that go into effect once you’re following a certain number of accounts:
+Every Twitter account can follow up to 5,000 accounts. Once you reach that number, you may need to wait until your account has more followers before you can follow additional accounts.
+This number is different for each account and is automatically calculated based on your unique ratio of followers to following.
+
+tweet_url: 
+
+https://twitter.com/karbytes/status/1623561301531459584
