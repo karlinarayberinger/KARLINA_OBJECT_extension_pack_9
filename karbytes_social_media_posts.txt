@@ -1809,3 +1809,20 @@ I make a point of always following back accounts which follow mine. Unfortunatel
 tweet_url: 
 
 https://twitter.com/karbytes/status/1623547055833759744
+
+* * *
+
+On 17_MARCH_2024 at approximately 7:30PM Pacific Standard Time, karbytes deleted the social media web post which featured the following karbytes-created screenshot and link to karbytes' primary website from karbytes' LinkedIn dot Com page:
+
+https://karlinaobject.wordpress.com/
+
+[The following is chatGPT-4 output after submitting the following prompt which included an uploaded screenshot image which was included in karbytes' (now deleted) LinkedIn post: Please display the text which is part of the following screenshot of a web page: ]
+
+The screenshot contains a section titled "DONATIONS_PORTAL" with the following text:
+
+Visitors to this website are invited to donate money to the author of this website using this PayPal donation portal link. The suggested donation amount is $20.
+
+Patreon members may subscribe to contribute either $1 per month (bit membership tier) or else $8 per month (byte membership tier) or else $64 per month (word membership tier) to the Patreon page managed by karbytes.
+
+Donations are used to support the ongoing development of Karlina Object dot WordPress dot Com and other websites managed by karbytes.
+
