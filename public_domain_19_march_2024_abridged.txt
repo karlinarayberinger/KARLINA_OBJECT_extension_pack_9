@@ -31,10 +31,10 @@ ________________
 
 
 
-The following terms, the respective definition of each of those terms, and the specifications for coloring hyperlinks describe the intellectual property which comprises this website (i.e. the website named Karlina Object dot WordPress dot Com). Note that the following definitions might not pertain to their respective terms used outside the scope of this website.
+The content on this web page describes each of the source code files and each of the media files which comprise the website named Karlina Object dot WordPress dot Com and the website named Karbytes For Life Blog dot WordPress dot Com. Each of those aforementioned files is licensed by the author of those files as being open source and public domain. (The author of those files is named karbytes (a.k.a. Karlina Ray Beringer)).
 
 
-To view hidden text inside each of the preformatted text boxes below, scroll horizontally.
+To view hidden text inside of the preformatted text box below, scroll horizontally.
 
 
 ________________
@@ -67,9 +67,6 @@ ________________
 OPEN_SOURCE: a classification of intellectual property which specifies that the respective intellectual property is licensed by its original author as being open source and is, hence, (a) legal for any person to make indefinitely many verbatim copies of, (b) legal for any person to freely distribute or else sell verbatim copies of, (c) legal for any person to modify verbatim copies of, (d) legal for any person to freely distribute or else sell modified copies of, and (e) legal for any person to claim any of those verbatim or modified copy files as that person’s own intellectual property.
 
 
-(Note that, within the context of this web page, the term author is interchangeable with the term creator).
-
-
 ________________
 
 
@@ -78,16 +75,18 @@ ________________
 PUBLIC_DOMAIN: open source intellectual property which is legally determined to be ownerless after a specific date and, forever after that date, part of the public World Wide Web.
 
 
-The author of this website has saved the source code of each web page of this website and each source code file or media file which that web page displays (and references via hyperlink) in a public GitHub repository which the author of this website created.
+The author of this website has saved the source code of each web page of this website (and the website named Karbytes For Life Blog dot WordPress dot Com) and each source code file or media file which that web page displays (and references via hyperlink) in a GitHub repository which the author of this website also created (as the GitHub user account whose uniquely-corresponding username is @karlinarayberinger).
 
 
-The author of this website has attempted to save each web page of this website multiple times to the WayBack Machine such that each of those WayBack Machine saves of Karlina Object dot WordPress dot Com web pages can be retrieved indefinitely many times from any terminal of the World Wide Web (without having to enter login credentials nor pay money) by using the Uniform Resource Locator (URL) of the respective Karlina Object dot WordPress dot Com web page as a search term to look up its corresponding saves in the WayBack Machine database.
+The author of this website has attempted to save each web page of its two aforementioned websites multiple times to the WayBack Machine such that each of those WayBack Machine saves of web pages in the website named Karlina Object dot WordPress dot Com and in the website named Karbytes For Life Blog dot WordPress dot Com can be retrieved indefinitely many times from any terminal of the World Wide Web (without having to enter login credentials nor pay money to access those archived web pages on the WayBack Machine servers) by using the Uniform Resource Locator (URL) of the respective Karlina Object dot WordPress dot Com or Karbytes For Life Blog dot WordPress dot Com web page as a search term to look up that web page’s corresponding saves in the WayBack Machine database.
 
 
-For each unique URL which is successfully saved to the WayBack Machine, there exists a collection of some natural number of corresponding WayBack Machine saves. Each of those saves depicts its respective web page at the time that web page was captured by the WayBack Machine. For each unique URL which was saved to the WayBack Machine, the WayBack Machine has a corresponding database featuring a calendar interface with hyperlinked days in which saves of the respective web page was made. Users can click on those hyperlinked days of the calendar to view the saves of the respective web page which were made on the respective day.
+For each unique URL which is successfully saved to the WayBack Machine, there exists a collection of some natural number of corresponding WayBack Machine saves. Each of those saves depicts its respective web page at the time that web page was captured by the WayBack Machine.
 
 
-Each of the web pages which are part of this website and each of the code files and each of the media files which are embedded in the web pages of this website is hereby designated by the author of this website to forever be public domain intellectual property. The original author of each of those aforementioned files is exactly one person named karbytes.
+The author of this website also endeavors to produce and preserve multiple sets of M_DISCs (and other long-term digital storage media) such that each of those sets contains all of the source code files and all of the media files which constitute the intellectual property showcased by the websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com.
+
+
 
 
 ________________
@@ -98,22 +97,19 @@ ________________
 HYPERLINK_COLORING_CONVENTIONS
 
 
-The following specifications pertain to each hyperlink which is displayed on any web page of this website:
+The following specifications pertain to each hyperlink which is displayed on any web page of the website:
 
 
 Each of the hyperlinks which is displayed on this website has a background color or a text color which is either black (i.e. #000000), green (i.e. #00ff00), or orange (i.e. #ff9000).
 
 
-A hyperlink whose background color is orange and whose text color is black refers to a file which belongs to a website which karbytes did not create.
+A hyperlink whose background color is orange and whose text color is black refers to a file which belongs to a website which karbytes did not create and which is hosted on the public World Wide Web.
 
 
-A hyperlink whose background color is green and whose text color is black refers to a GitHub repository which karbytes created or to a GitHub account which karbytes created.
+A hyperlink whose background color is green and whose text color is black refers to a public GitHub repository which karbytes created or to a GitHub account which karbytes created.
 
 
-(Note that karbytes did not create the GitHub website. Instead, karbytes is a user of GitHub (and karbytes is a GitHub user who has created private and public GitHub repositories using the GitHub website to host those repositories (and each of those repositories contains zero or more files which karbytes uploaded and which karbytes is the creator of))).
-
-
-A hyperlink whose background color is black refers to a GitHub web page displaying exactly one file which karbytes is the original author of (and that file is either a source code file or else a media file).
+A hyperlink whose background color is black refers to a raw source code file or a raw media file which is hosted on a public karbytes-created GitHub repository (and the web page for each of such raw files displays exactly one source code or media file without any extraneous content such as hyperlinks or menu buttons).
 
 
 An example of a source code file which karbytes created and uploaded to GitHub is the file named fibonacci.cpp.
@@ -139,16 +135,13 @@ ASSUMPTIONS
 The entity (or entities) which create(s) a particular piece of intellectual property is (or are) implicitly, automatically, and immediately assigned sole ownership of that piece of intellectual property as soon as that piece of intellectual property is created.
 
 
-After a piece of intellectual property is created, the creator (and, hence, the original owner) of that piece of intellectual property can assign a particular license to that piece of intellectual property which specifies how the creator of that intellectual property wants other people to use that intellectual property. For instance, the original owner of a piece of intellectual property might license that piece of intellectual property as being illegal to access without first purchasing an access code through the vendor website to download a copy of the files which constitute that piece of intellectual property.
-
-
-(In the aforementioned example, it is presumably illegal for a person who legally purchases the access code to download proprietary intellectual property to distribute copies of that downloaded content to other people because doing so is, according to the license assigned to that downloaded content, stealing money from the original proprietor of that (non open source and non public domain) intellectual property).
+After a piece of intellectual property is created, the creator (and, hence, the original owner) of that piece of intellectual property can assign a particular license to that piece of intellectual property which specifies how the creator of that intellectual property wants other people to use that intellectual property. For instance, the original owner of a piece of intellectual property (or legal heir of such intellectual property) might license that piece of intellectual property as being illegal to access without first purchasing an access code to view or download that intellectual property.
 
 
 In addition to assuming that the original creators of a piece of intellectual property are initially the sole proprietors of that piece of intellectual property, that piece of intellectual property is also assumed to initially be private instead of public. Intellectual property which is private instead of part of the public domain is illegal to share without that intellectual property owner’s explicit permission for each instance of enabling some entity other than the owner of that intellectual property access to that intellectual property. By contrast, intellectual property which is part of the public domain is legal for any entity to access and to claim ownership of (but claiming ownership of a piece of intellectual property which is copied wholly or partially from some piece of intellectual property which was licensed as public domain or as open source does not automatically make that copy also public domain (but the copy may be assigned more exclusive access conditions which may or may not be physically enforceable)).
 
 
-// The following pseudocode elaborates on what was discussed in the previous four paragraphs.
+// The following pseudocode elaborates on what was discussed in the previous three paragraphs.
 
 
 Let time_0 be a point in time which occurs before the point in time named time_1.
@@ -160,7 +153,7 @@ Let time_1 be a point in time which occurs before the point in time named time_2
 Let person_A and person_B each be unique end users of the same digital content distribution network.
 
 
-Let ip_X and ip_Y each be unique instances of intellectual property which can be verbatim encoded as a particular finite sequence of binary digits within the digital computers which comprise that digital content distribution network which person_A and person_B use.
+Let ip_X and ip_Y each be unique instances of intellectual property which can be verbatim encoded as a uniquely-corresponding finite sequence of binary digits within the context of a network comprised of digital computers which person_A and person_B use to distribute and access digital files.
 
 
 Suppose person_A creates a piece of intellectual property named ip_X at time_0.
@@ -175,19 +168,13 @@ At time_0 and before time_1, it is illegal for person_B to own a copy of ip_X.
 Then, at time_1, person_A assigns the license of public_domain to ip_X.
 
 
-At time_1 and after time_1, it is legal for person_B to own a copy of ip_X.
+At time_1, it is legal for person_B to own a copy of ip_X.
 
 
 Then, at time_2, person_B makes a copy of ip_X and names that copy ip_Y.
 
 
-At time_2 and after time_2, it is illegal for person_A to own a copy of ip_Y but it is not illegal for person_A to own a copy of ip_X.
-
-
-Finally, a piece of intellectual property which is (a) distributed sufficiently many (and arbitrarily many) times and is (b) substantiated as digital files in sufficiently many (and arbitrarily many) digital storage mediums (especially web content hosting servers for hosting content which is accessible to the general public) simultaneously for a (c) sufficiently long (and arbitrarily long) period of time after the most recent sole proprietor of that intellectual property dies (or if the most recent sole proprietor is an artificial intelligence without legally recognized personhood) is released to the public domain or else that piece of intellectual property is assumed to be entirely noumenal and to be treated as legally having never phenomenally instantiated at any prior point in time (due to the fact that presumably zero physical records currently exist which encode that particular piece of intellectual property).
-
-
-It is implied by the previous paragraph that the same piece of intellectual property could potentially be created multiple times within the same universe (provided that those instantiation periods are non-overlapping) and each instantiation would legally be treated as the first time the associated piece of intellectual property ever emerged.
+At time_2, it is illegal for person_A to own a copy of ip_Y but it is not illegal for person_A to own a copy of ip_X.
 
 
 ________________
@@ -195,7 +182,7 @@ ________________
 
 
 
-This web page was last updated on 17_OCTOBER_2023. The content displayed on this web page is licensed as PUBLIC_DOMAIN intellectual property.
+This web page was last updated on 19_MARCH_2024. The content displayed on this web page is licensed as PUBLIC_DOMAIN intellectual property.
 
 
 ________________
