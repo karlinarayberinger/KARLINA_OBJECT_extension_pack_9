@@ -1,0 +1,205 @@
+﻿numbers_19_march_2024_abridged
+
+
+[Note that this Portable Format Document (to print out onto pieces of white paper which are each 8.5 inches wide and 11 inches tall using black ink, sans-serif font, and 11 point font size) contains plain-text content only and that not all the content which is featured on the web page named Karlina Object dot WordPress dot Com forward slash Numbers is featured also in this document].
+
+
+https://karlinaobject.wordpress.com/numbers/
+
+
+The final draft version of this document was published on 19_MARCH_2024.
+
+
+________________
+
+
+
+
+NUMBERS
+
+
+________________
+
+
+
+
+image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/number_sets_diagram.png
+
+
+________________
+
+
+
+
+The following terms and their respective definitions describe all types of numbers. A number is a piece of information which non-ambiguously represents one of limitlessly many unique abstract patterns.
+
+
+To view hidden text inside each of the preformatted text boxes below, scroll horizontally.
+
+
+________________
+
+
+
+
+ONE: the smallest natural number; the length of the line segment whose endpoints are adjacent integers on some dimensional axis of a Cartesian grid.
+
+
+________________
+
+
+
+
+ZERO: the quantity which represents the absence of some countable phenomenon; the integer which represents the halfway point between negative one and one on some dimensional axis of a Cartesian grid.
+
+
+________________
+
+
+
+
+NUMBER: a piece of information which represents exactly one finite quantity; a piece of information which can be approximated to some arbitrary degree of precision or else represented exactly by a particular corresponding finite sequence binary digits (and a binary digit is the smallest unit of information verbatim transmissible information).
+
+
+________________
+
+
+
+
+INFINITY: the (hypothetical or actual) instantiation of limitlessly many copies of exactly one pattern or the (hypothetical or actual) instantiation of limitlessly many unique patterns.
+
+
+________________
+
+
+
+
+NATURAL_NUMBER: an element of the indefinitely large set (and hypothetically infinitely large set) whose elements consist exclusively of one and of every unique sum comprised of one being added to itself for some finite number of additions.
+
+
+length("") = 0. // zero (i.e. the quantity which symbolically represents the detection of some noumenon)
+length("X") = 1. // smallest natural number (i.e. the quantity which symbolically represents the detection of some phenomenon)
+length("XX") = 2 = (1 + 1). // second smallest natural number
+length("XXX") = 3 = (2 + 1) = (1 + 2) = ((1 + 1) + 1) = (1 + (1 + 1)). // third smallest natural number
+
+
+________________
+
+
+
+
+INTEGER: an element of the indefinitely large set (and hypothetically infinitely large set) whose elements consist exclusively of each natural number, each natural number multiplied by negative one, and zero.
+
+
+array_of_integers := [-5, 3, 0, 2].
+
+
+________________
+
+
+
+
+RATIONAL_NUMBER: an element of the indefinitely large set (and hypothetically infinitely large set) whose elements consist exclusively of each integer and each ratio (A/B) such that A represents any integer while B represents any integer other than zero.
+
+
+is_rational_number(1/3) = true.
+is_rational_number(1/1) = true.
+is_rational_number(square_root(2)) = false.
+is_rational_number(square_root(1)) = true. // square_root(1) = 1.
+is_rational_number(square_root(0)) = true. // square_root(0) = 0.
+is_rational_number(square_root(-1)) = false. // i := square_root(-1). // i is an imaginary number. Each rational number is a real number.
+is_rational_number(0/1) = true. // (0/1) = 0.
+is_rational_number(0/0) = false. // Infinity is not a number.
+is_rational_number(1/0) = false. // Infinity is not a number.
+
+
+________________
+
+
+
+
+IRRATIONAL_NUMBER: an element of the indefinitely large set (and hypothetically infinitely large set) whose elements consist exclusively of real numbers which are not rational numbers.
+
+
+An example of an irrational number is Pi.
+
+
+________________
+
+
+
+
+REAL_NUMBER an element of the indefinitely large set (and hypothetically infinitely large set) whose elements consist exclusively of numbers which each represents a specific point along some dimensional axis of a Cartesian grid.
+
+
+________________
+
+
+
+
+IMAGINARY_NUMBER an element of the indefinitely large set (and hypothetically infinitely large set) whose elements consist exclusively of numbers which are each the product of the square root of negative one multiplied by some real number.
+
+
+i := square_root(-1). // imaginary number
+(i * i) = -1. // real number
+((i * i) * i) := ((-1) * i). // imaginary number
+
+
+________________
+
+
+
+
+COMPLEX_NUMBER: the sum of a real number and an imaginary number.
+
+
+(2 * i) + 3. // complex number
+(2 * i). // imaginary number
+(1 * i). // imaginary number
+(0 * i) = 0. // imaginary number to the left of the equal sign and real number to the right of the equal sign
+(0 * i) - 8 = -8. // complex number to the left of the equal sign and real number to the right of the equal sign
+
+
+________________
+
+
+
+
+ALGEBRAIC_REAL_NUMBER: a number which is the root of a non-zero polynomial equation such that the coefficients of that polynomial equation are rational numbers.
+
+
+An example of an algebraic number is the Golden Ratio.
+
+
+golden_ratio := (1 + (5 ^ (1/2))) / 2.
+
+
+some_polynomial := y = (x ^ 2) − x − 1.
+
+
+proof that golden_ratio is a root of some_polynomial:
+
+
+0 = (((1 + (5 ^ (1/2))) / 2)) ^ 2) − ((1 + (5 ^ (1/2))) / 2) − 1.
+
+
+________________
+
+
+
+
+TRANSCENDENTAL_NUMBER: a real or complex number which is not an algebraic number.
+
+
+An example of a transcendental number is Euler’s Number.
+
+
+________________
+
+
+
+
+This web page was last updated on 20_OCTOBER_2023. The content displayed on this web page is licensed as PUBLIC_DOMAIN intellectual property.
+
+
+________________
