@@ -1,0 +1,129 @@
+﻿knowledge_18_march_2024_abridged
+
+
+[Note that this Portable Format Document (to print out onto pieces of white paper which are each 8.5 inches wide and 11 inches tall using black ink, sans-serif font, and 11 point font size) contains plain-text content only and that not all the content which is featured on the web page named Karlina Object dot WordPress dot Com forward slash Knowledge is featured also in this document].
+
+
+https://karlinaobject.wordpress.com/knowledge/
+
+
+The final draft version of this document was published on 18_MARCH_2024.
+
+
+________________
+
+
+
+
+KNOWLEDGE
+
+
+________________
+
+
+
+
+image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/northeast_castro_valley_california_sunrise_02_july_2023.jpg
+
+
+________________
+
+
+
+
+The following terms and their respective definitions describe knowledge as an emergent (and relatively virtual) property of (relatively physical) processes which occur inside the hardware of a sufficiently complex information processing agent for the purpose of enabling that information processing agent to render a conceptual and perceptual environment for that information processing agent to inhabit and explore.
+
+
+To view hidden text inside of the preformatted text boxes below, scroll horizontally.
+
+
+physical : hardware :: virtual : software.
+
+
+physical : electron_pattern :: virtual : integer_value.
+
+
+physical : concrete :: virtual : abstract.
+
+
+concrete : substrate :: abstract : pattern.
+
+
+DATA.abstraction_level < INFORMATION.abstraction_level < KNOWLEDGE.abstraction_level.
+
+
+________________
+
+
+
+
+SUBSTRATE: a physical medium which functions as a storage device for preserving patterns which are inscribed into that medium.
+
+
+The process of inscribing a pattern into a substrate necessarily alters the molecular composition or spatial arrangement of molecules within that substrate.
+
+
+________________
+
+
+
+
+PATTERN: a configuration of matter or energy which is entirely noumenal until that configuration is inscribed into a substrate.
+
+
+A discrete pattern is maintained as an unchanging phenomenal object even as that pattern is (verbatim) transcribed from one substrate to some other substrate for any natural number of verbatim transcriptions.
+
+
+An example of a pattern being inscribed into a substrate is the digital files which comprise this website being etched into an optical disc through a process of using a laser inside of an optical disc drive in communication with a digital computer to translate the binary digits which verbatim represent those digital files into corresponding grooves which reflect different frequencies of light (depending on the varying shapes of those grooves) when a light is shined on those grooves and then reflected into a photo sensor which translates those varying frequencies of light into corresponding electrical signals and then into the digital files which those grooves represent using an optical disc drive and digital computer. A process of burning this website’s constituent files onto a set of optical discs is described in further detail on the web page named mdisc_karbytes_20_march_2024 on the website named Karbytes For Life Blog dot WordPress dot Com.
+
+
+________________
+
+
+
+
+DATA: (singular: datum) phenomenal patterns which are each non-ambiguously represented as (and directly constituted as) a finite sequence of binary digits such that, when that sequence of binary digits is transmitted from one information processing agent to some other information processing agent, both information processing agents in that exchange interpret that transmitted sequence of binary digits as symbolically representing (and literally constituting) the same exact phenomenal pattern.
+
+
+An example of a datum is any integer value (e.g. 666) which is represented by an int type variable named N after N is instantiated as a result of a particular C++ program being compiled and executed by a digital computer. For the duration of N’s instantiation, N stores exactly four bytes of data per instant (because an int type C++ variable is a fixed and unique allocation of exactly four bytes of random access memory for the duration of that variable’s lifespan).
+
+
+________________
+
+
+
+
+INFORMATION: a collection of data which are organized in a particular spatial and temporal configuration such that those data collectively refer to some piece of knowledge which neither one of those data could wholly represent by itself.
+
+
+Note that it is possible for one information processing agent to categorize a particular collection of data as mere data while some other information processing agent categorizes that same collection of data as information. The distinction between information and data is arbitrary in some contexts, but in other contexts (such as the context of this web page), information is considered to exhibit more emergent properties than what is exhibited by mere data. In metaphorical terms, data is akin to raw disassembled food ingredients which comprise some relatively complex meal while information is akin to that relatively complex meal which is created by assembling those raw ingredients together into a cohesive and interdependent arrangement (using an algorithmic process outlined by some recipe in a cook book) which is designed to produce the emergent properties of specific flavors, textures, and nutritional profiles which neither one of those raw food ingredients could produce in isolation from each other.
+
+
+________________
+
+
+
+
+KNOWLEDGE: an emergent property which occurs as a result of a sufficiently complex information processing agent subjectively interpreting some piece of information such that the resulting interpretation is not wholly communicable beyond the scope of that particular information processing agent’s frame of reference and personal memories.
+
+
+It could be said that what is transmitted between multiple information processing agents is information and what each of those information processing agents uniquely and subjectively experiences is knowledge (which means that, unlike information and data, knowledge is a solipsistic phenomenon rather than an objective (i.e. non-subjective) phenomenon).
+
+
+________________
+
+
+
+
+(The following quoted text is a modified copy of a Twitter post which karbytes posted on 08_AUGUST_2023: “The mission of karbytes is to (at least imagine attempting to) create prose and code in the form of computer intepretable digital files which encodes essential logic for recreating and preserving the whole of nature (with literally no parts of reality left out of that all-encompassing karbytes-created ‘digital twin’).”)
+
+
+________________
+
+
+
+
+This web page was last updated on 18_MARCH_2024. The content displayed on this web page is licensed as PUBLIC_DOMAIN intellectual property.
+
+
+________________
