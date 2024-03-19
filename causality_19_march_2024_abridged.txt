@@ -1,0 +1,124 @@
+﻿causality_19_march_2024_abridged
+
+
+[Note that this Portable Format Document (to print out onto pieces of white paper which are each 8.5 inches wide and 11 inches tall using black ink, sans-serif font, and 11 point font size) contains plain-text content only and that not all the content which is featured on the web page named Karlina Object dot WordPress dot Com forward slash Causality is featured also in this document].
+
+
+https://karlinaobject.wordpress.com/causality/
+
+
+The final draft version of this document was published on 19_MARCH_2024.
+
+
+________________
+
+
+CAUSALITY
+________________
+
+
+image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2/main/determinism_flowchart_diagram.png
+________________
+
+
+
+
+The content which is featured on this web page elaborates on the concepts which are presented on the web pages of this website named MULTIVERSE and AGENCY. In particular, this web page describes the concept of causality (i.e. the apparent unidirectional flow of time inside of a universe and how specific unique phenomena within that universe appear and disappear in exactly one chronological order and such that older decision-making processes within that universe appear to influence newer decision-making processes within that universe but not vice versa).
+
+
+________________
+
+
+
+
+a_single_decision_making_trajectory
+
+
+The diagram featured on this web page depicts a simple decision-making trajectory which an information processing agent traverses within some time interval which begins at time_0 and which ends at time_3.
+
+
+At time_0 (and while the information processing agent is experiencing some event labeled e0 (whose duration is the length of the time interval which begins at time_0 and which ends at time_1)), the information processing agent imagines two possible options for how that information processing agent could behave within e0 and ultimately decides to select the option which effects the outcome labeled e1 instead of the outcome labeled e2.
+
+
+At time_1 (and while the information processing agent is experiencing some event labeled e1 (whose duration is the length of the time interval which begins at time_1 and which ends at time_2)), the information processing agent imagines two possible options for how that information processing agent could behave within e1 and ultimately decides to select the option which effects the outcome labeled e4 instead of the outcome labeled e3.
+
+
+At time_2 (and while the information processing agent is experiencing some event labeled e4 (whose duration is the length of the time interval which begins at time_2 and which ends at time_3)), the information processing agent imagines two possible options for how that information processing agent could behave within e4 and ultimately decides to select the option which effects the outcome labeled e9 instead of the outcome labeled ea.
+
+
+________________
+
+
+
+
+alternative_decision_making_trajectories
+
+
+In the previous section of this web page, a decision-making trajectory spanning the decision-making processes labeled e0, e1, e4, and e9 (in the order listed starting with e0 and ending with e9) is described and visually depicted as the green-highlighted portion of the diagram on this web page. Such a decision-making trajectory is one of multiple decision-making trajectories which the information processing agent inside of e0 apparently could have embarked on.
+
+
+It is hypothesized that the information processing agent was forced to traverse e0, e1, e4, and e9 (in the order listed starting with e0 and ending with e9) and not some other decision-making trajectory due to conditions in that information processing agent’s environment constraining that information processing agent’s behavior to the extent that the information processing agent had no real agency and was, instead, a mere puppet of its larger encompassing universe instead of the original cause of its own actions.
+
+
+It is also hypothesized that the information processing agent actually split into multiple clones of itself at each decision-making “point” along its trajectory from e0 to e1 to e4 to e9 (and such that each one of those clones also came with their own newly-spawned copy of the universe which they were cloned from).
+
+
+If what is hypothesized in the previous paragraph is true, then the diagram on this web page depicts a total of eight actual decision-making trajectories which were each traversed by exactly one information processing agent which was “cloned” from exactly one information processing agent inside of e0:
+
+
+One of those eight information processing agents traversed e0 to e1 to e3 to e7.
+
+
+One of those eight information processing agents traversed e0 to e1 to e3 to e8.
+
+
+One of those eight information processing agents traversed e0 to e1 to e4 to e9.
+
+
+One of those eight information processing agents traversed e0 to e1 to e4 to ea.
+
+
+One of those eight information processing agents traversed e0 to e2 to e5 to eb.
+
+
+One of those eight information processing agents traversed e0 to e2 to e5 to ec.
+
+
+One of those eight information processing agents traversed e0 to e2 to e6 to ed.
+
+
+One of those eight information processing agents traversed e0 to e2 to e6 to ee.
+
+
+________________
+
+
+
+
+improbable_decision_making_trajectories
+
+
+According to what humans have observed, recorded, and inferred about physics (as of 19_MARCH_2024), the total entropy of a system tends to increase as time elapses for that system. The diagram on this web page depicts an increase in entropy as time elapses for some information processing system (and that entropy is depicted as an increase in complexity of alternative decision-making trajectories rather than a reversal of such complexity increase (and such a reversal of complexity increase would be visually represented as branches of that tree diagram merging in the direction of time flow)).
+
+
+It is hypothesized that one universe tends to eventually split into multiple clone universes as time elapses for each of those universes (which means that the total amount of phenomena throughout all of nature increases rather than remains the same or decreases).
+
+
+Based on what humans have observed, recorded, and inferred about physics (as of 19_MARCH_2024), it is extremely improbable (if not impossible) for entropy to reverse itself or for apparently consistent laws of physics to spontaneously be violated.
+
+
+An example of entropy reversing itself (which would be an apparent violation of causality (i.e. events flowing in exactly one unbreakable chronological order)) would be the information processing agent which traversed e0 to e1 to e4 to e9 to then traverse e9 to e4 to e1 to e0.
+
+
+An example of apparently unbreakable laws of physics being broken would be the apparently chaotic sequence of events of the information processing agent which traversed e0 to e1 to then traverse e1 to e2.
+
+
+________________
+
+
+
+
+This web page was last updated on 19_MARCH_2024. The content displayed on this web page is licensed as PUBLIC_DOMAIN intellectual property.
+
+
+________________
