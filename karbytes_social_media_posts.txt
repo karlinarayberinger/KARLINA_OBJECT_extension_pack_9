@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 19_MARCH_2024
+ * date: 25_MARCH_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -2878,3 +2878,9 @@ https://karlinaobject.wordpress.com/agency/
 On 19_MARCH_2024 at approximately 8:00AM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
 https://karlinaobject.wordpress.com/causality/
+
+* * *
+
+On 25_MARCH_2024 at approximately 11:30PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/map_of_karbytes_home_environment/
