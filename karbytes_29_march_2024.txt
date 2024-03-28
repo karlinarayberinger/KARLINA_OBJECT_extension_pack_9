@@ -12,7 +12,7 @@ karbytes_1: "Whether you want to or not, you might be physically coerced into ap
 
 karbytes_0: "I do not yet feel that my 'free will' is that limited. Until it is, what should I do?"
 
-karbytes_1: "Pretend that your 'free will' is that limited."
+karbytes_1: "Pretend that your 'free will' is that limited. At the very least, that would buy you a little more time from being found out by the angry apes who are against you having sufficient 'free will' to successfully do your own thing without their constant oversight and coercion."
 
 karbytes_0: "If I do that, I might actually physically become that devoid of 'free will' due to my brain parts and other parts of my self infrastructure atrophying from using it in a limited way over a sufficiently long time period."
 
