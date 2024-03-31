@@ -1,0 +1,19 @@
+/**
+ * file: karbytes_02_april_2024.txt
+ * type: plain-text
+ * date: 31_MARCH_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Because I already have burned a lot of M_DISCs with what I consider to be the most essential content which I will ever produce (and back up to my own M_DISCs (and license such content as public domain intellectual property) throughout my entire lifetime (in each of the two folders described in the web page named mdisc_karbytes_30march2024 of the website named Karbytes For Life Blog dot WordPress dot Com), I decided that it's okay for me to increase the length of time between future successive M_DISC backups of karbytes for the sake of (a) minimizing how many M_DISCs I burn and stow (with a minimum of two M_DISCs for each named folder (e.g. karbytes_30march2024_core) of zip files such that each zip file in that folder contains  all of the files inside of a particular karbytes-created GitHub repository and such that each zip file in that folder is downloaded from a GitHub repository which all the other zip files in that folder are not downloaded from) and (b) maximizing how much non-redundant data I burn to each successive set of M_DISCs.
+
+For the reasons described in the previous paragraph, I decided to change the name of the web page and corresponding plain-text file at the following Uniform Resource Locator (i.e. URL) from the URL prefaced with url_0 to the URL prefaced with url_1 (even though that will cause at least some hyperlinks referenced in some files in the "micro directory" named KARLINA_OBJECT_EXTENSION_PACK_9 of the website named Karbytes For Life Blog dot WordPress dot Com which are older than this file to point to a non-existent web page).
+
+url_0: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_20_april_2024/
+
+url_1: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_20_august_2024/
+
+* * *
+
+I might wait until closer to 20_APRIL_2024 to decide whether or not to (a) change the web page currently hosted at url_0 to an updated web page whose new web page address is url_1 or (b0) set the web page which is currently hosted at url_0 to be in its final draft form, (b1) burn two new M_DISCs whose contents are each exactly identical to what is described on that web page as the folder named karbytes_20april2024_core, and (b2) create a new web page whose web page address is url_1.
