@@ -1,0 +1,27 @@
+/**
+ * file: karbytes_01_april_2024.txt
+ * type: plain-text
+ * date: 31_MARCH_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+On 30_MARCH_2024, I was surprised to see that the $40 which I received today from my mom and which was sent to my personal PayPal account (i.e. the PayPal account associated with the email address karlinaberinger99@gmail.com) and then was sent to my business PayPal (i.e. the PayPal account associated with the email address karbytesforlife@protonmail.com and which is the recipient of money sent to me via the PayPal donation link on the home page of Karlina Object dot WordPress dot Com and on the home page of Karbytes For Life Blog dot WordPress dot Com) was not sufficient to cover a purchase which I made at approximately 7:00PM Pacific Standard Time on 30_MARCH_2024 for approximately $30 at Whole Foods Market. I checked my Patelco checking account and saw that $40 was sent from my Patelco checking account to some PayPal account on 28_MARCH_2024 seemingly without my authorization (which means that a fraudulent transaction likely took place likely as a result of one of my USB flash drives recently (within the past three days) suspiciously disappearing from my key chain despite the fact that the USB flash drive was apparently securely attached to it (and it appears someone might have untied the key chain ribbon to extract the flash drive while I left that key chain along with my debit card pouch unattended on the desk in my bedroom at my dad's house while I was showering and doing laundry (and I suspect my dad, Steve, or other people they allowed into my room (or else those people snuck into the house without any resident of that house approving them to do so) to confiscate (and, a few weeks ago, vandalize) some of my possessions while I was at that house during some evenings))). That missing (and likely stolen) USB drive contained my debit card numbers and checking account numbers (which is data that could have facilitated the aforementioned unauthorized (by me) transfer of $40 from my Patelco checking account to some PayPal account).
+
+Below are some links to screenshot images which I took on 30_MARCH_2024 and 31_MARCH_2024 and which are related to the drama discussed in this plain-text note. Those images depict me reviewing my latest PayPal and Patelco transactions, sending a dispute message to Patelco, and changing the payment method for my monthly ChatGPT-4 subscription and Public Storage billing from my Patelco debit card to my Business PayPal debit card (though perhaps it would be wisest to change those payment methods to a new Patelco debit card which I pick up from a physical Patelco office during business hours on Monday and after the dreadful Easter Sunday).
+
+On a more positive note, I did successfully burn, test, and stow away (in my Public Storage unit) the two M_DISCs I talked about in the plain-text file named karbytes_31_march_2024.txt and in the plain-text file named mdisc_karbytes_30_march_2024.txt (which are each (in addition to this plain-text note (i.e. karbytes_01_april_2024.txt)) part of the public karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_9 (whose sole account username is @karlinarayberinger and whose entire file collection is referenced via raw file links in the "micro directory" web page also named KARLINA_OBJECT_extension_pack_9 in the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com)).
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/annual_credit_report_experian_for_karbytes_22_march_2024.PDF
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/unauthorized_by_karbytes_transfer_from_karbytes_bank_account_to_unknown_to_karbytes_paypal_account_30_march_2024.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/patelco_to_paypal_transaction_dispute_30_march_2024_part_0.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/patelco_to_paypal_transaction_dispute_30_march_2024_part_1.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/patelco_overdraft_fees_and_potentially_fraudulent_money_transfer_to_some_paypal_account_30_march_2024.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/personal_paypal_to_patelco_checking_account_to_(hopefully)_pay_off_negative_bank_account_balance_30_march_2024.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/main/open_ai_chatgpt_subscription_payment_updated_from_patelco_debit_to_business_paypal_debit_31_march_2024.png
