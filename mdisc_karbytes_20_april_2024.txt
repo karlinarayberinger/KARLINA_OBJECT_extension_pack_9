@@ -6,6 +6,12 @@
  * license: PUBLIC_DOMAIN
  */
 
+Note that the content displayed on this web page has been set by karbytes to be closed to further updates and that this web page does not represent the verbatim contents of any M_DISC set which karbytes intends to burn. Instead, all M_DISC sets which karbytes burns after 11:59PM Pacific Standard Time on 30_MARCH_2024 will be associated with karbytes folders whose folder names lack a calendar date component and, instead, contain a version number and year number. The content of the next set of M_DISCs which karbytes intends to burn after the set which was burned on 30_MARCH_2024 is described on the web page at the following Uniform Resource Locator: 
+
+https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_ultra_2024_edition_0/
+
+* * *
+
 The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 20_APRIL_2024. 
 
 karbytes intends to create at least four M_DISC copies of the M_DISC whose contents are referred to on this web page as "karbytes_20april2024_core".
