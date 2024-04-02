@@ -35,3 +35,5 @@ url_1: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_ultra_2024_editi
 The web page located at the Uniform Resource Locator associated with the "variable" (in this plain-text file) named url_0 has been updated and closed to further updates as of 11:59PM Pacific Standard Time on 02_APRIL_2024.
 
 For now on I intend to use version numbers instead of calendar dates to label specific editions of karbytes folders which I burn to M_DISCs so that the logistics involved in the creation, refinement, and archiving of such data is not overly restrained by arbitrary and rigid time frames. 
+
+(Finally, when burning an M_DISC, I an forced to use a relatively short name for the disc I am burning such as kar20mar2024JOUR or karbytes2024ue0).
