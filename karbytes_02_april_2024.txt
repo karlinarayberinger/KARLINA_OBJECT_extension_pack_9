@@ -1,7 +1,7 @@
 /**
  * file: karbytes_02_april_2024.txt
  * type: plain-text
- * date: 31_MARCH_2024
+ * date: 02_APRIL_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -17,3 +17,21 @@ url_1: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_20_august_2024/
 * * *
 
 I might wait until closer to 20_APRIL_2024 to decide whether or not to (a) change the web page currently hosted at url_0 to an updated web page whose new web page address is url_1 or (b0) set the web page which is currently hosted at url_0 to be in its final draft form, (b1) burn two new M_DISCs whose contents are each exactly identical to what is described on that web page as the folder named karbytes_20april2024_core, and (b2) create a new web page whose web page address is url_1.
+
+* * *
+
+I decided that I will go ahead and make two or three M_DISCs which each have exactly one folder burned to them before 11:59PM Pacific Standard Time  on 30_MAY_2024 and after 11:59PM Pacific Standard Time on 30_MARCH_2024 (and that folder is named karbytes_20april2024_core and the entire contents of that folder are enumerated on the web page at the following Uniform Resource Locator (after that folder is burned to the aforementioned M_DISCs: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_20_april_2024/).
+
+* * *
+
+Note that I composed the first section of this note (which is two sections above this section) on 31_MARCH_2024. 
+
+Note that the second section of this note (which is the section above this section) was composed before this section was composed (and that second section is somewhat obsolete because the Uniform Resource Locator mentioned in that section has since been associated with a web page which is not intended to be used to describe the verbatim contents of any set of M_DISCs which I ever intend to burn).
+
+I decided to change the value associated with url_1 in the first section of this note to "https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_ultra_2024_edition_0/" (quotations not included). Hence, the following key-value pair in this note is exclusively true (at 11:59PM Pacific Standard Time on 02_APRIL_2024).
+
+url_1: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_ultra_2024_edition_0/
+
+The web page located at the Uniform Resource Locator associated with the "variable" (in this plain-text file) named url_0 has been updated and closed to further updates as of 11:59PM Pacific Standard Time on 02_APRIL_2024.
+
+For now on I intend to use version numbers instead of calendar dates to label specific editions of karbytes folders which I burn to M_DISCs so that the logistics involved in the creation, refinement, and archiving of such data is not overly restrained by arbitrary and rigid time frames. 
