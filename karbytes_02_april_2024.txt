@@ -37,3 +37,9 @@ The web page located at the Uniform Resource Locator associated with the "variab
 For now on I intend to use version numbers instead of calendar dates to label specific editions of karbytes folders which I burn to M_DISCs so that the logistics involved in the creation, refinement, and archiving of such data is not overly restrained by arbitrary and rigid time frames. 
 
 (Finally, when burning an M_DISC, I am forced to use a relatively short name for the disc I am burning such as kar20mar2024JOUR or karbytes2024ue0).
+
+* * *
+
+It can generally be assumed that what exists inside of the one and only blue compact disc case within my entire collection of karbytes M_DISCs which I made (and which exists inside of my one and only Public Storage unit or else is no longer in my possession) is (a) at least two M_DISCs whose exclusive contents (per disc) are the folder named karbytes_20march2024_journals (as described by the web page at the following Uniform Resource Locator) and (b) at least two M_DISCs whose exclusive contents (per disc) are the most recent folder whose name begins with "karbytes_" (quotations not included) and ends with "_core" (quotations not included):
+
+https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_ultra_2024_edition_0/
